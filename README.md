@@ -1,7 +1,7 @@
 # LLMs4NLI
-This is the code of Project, Large Language Model for Natural Language Inference: Fine-tuning and Distillation, which is a project of NLP class in SEU.
+This is the code of Project, Large Language Models for Natural Language Inference: Fine-tuning and Distillation, which is a project of NLP class in SEU.
 
-We will realse the code soon.
+We will release the code soon.
 
 ## DONE:
 - [x] Create Github Projects 
